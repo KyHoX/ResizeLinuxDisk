@@ -1,3 +1,5 @@
+This document is an expand of the original post at https://gist.github.com/maravedi/025c0f67a9123ed5e711b8318e3ffcc6
+
 1. Expand disk size in virtualization
 2. swapoff <swap partition>
 3. unmount -a  (unmount all mouting points)
